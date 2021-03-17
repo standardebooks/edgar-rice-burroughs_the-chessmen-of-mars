@@ -41,7 +41,7 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href=&quot;https://standardebooks.org/collections/martian&quot;&gt;Martian series&lt;/a&gt;, introduces Tara, Princess of Helium, the headstrong daughter of John Carter, Warlord of Mars. The novel is packed with imagnative characters and wild and wily alien creatures. In true Barsoomian fashion, &lt;a href=&quot;https://standardebooks.org/ebooks/edgar-rice-burroughs&quot;&gt;Burroughs&lt;/a&gt; fills &lt;i&gt;The Chessmen of Mars&lt;/i&gt; with planet-shaking storms, daring swordfights, horrific dungeons, and wild escapes. While it might be considered a standard pulp adventure, Burroughs also introduces philosophy—exploring the connection between the mind and the body.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;, introduces Tara, Princess of Helium, the headstrong daughter of John Carter, Warlord of Mars. The novel is packed with imagnative characters and wild and wily alien creatures. In true Barsoomian fashion, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; fills &lt;i&gt;The Chessmen of Mars&lt;/i&gt; with planet-shaking storms, daring swordfights, horrific dungeons, and wild escapes. While it might be considered a standard pulp adventure, Burroughs also introduces philosophy—exploring the connection between the mind and the body.&lt;/p&gt;
 			&lt;p&gt;Of special note is &lt;i&gt;Jetan&lt;/i&gt;, Martian Chess, which holds a central place in the storyline. An appendix is included, so that interested readers may play the game themselves.&lt;/p&gt;
 			&lt;p&gt;It was originally serialized in six parts in Argosy All-Story Weekly before being published as a novel in 1922.&lt;/p&gt;
 		</meta>
@@ -121,7 +121,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="prelude.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>		
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
