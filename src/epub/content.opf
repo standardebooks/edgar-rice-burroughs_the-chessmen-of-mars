@@ -48,7 +48,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1153</dc:source>
 		<dc:source>https://archive.org/details/chessmenofmars00burr_2</dc:source>
-		<dc:source>https://www.google.com/books/edition/The_Chessmen_of_Mars/BMNDAQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Cover art is the painting on the original dust jacket of the 1922 Printing.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
