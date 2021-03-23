@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-23T22:39:07Z</dc:date>
+		<meta property="dcterms:modified">2021-03-23T22:39:07Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,16 +41,14 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;, introduces Tara, Princess of Helium, the headstrong daughter of John Carter, The Warlord of Mars. The novel is packed with imagnative characters and locations. In true Barsoomian fashion, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; describes an action-packed adventure: planet-shaking storms, daring swordfights, horrific dungeons, complex alien cultures, and wild escapes. While the story may be considered a standard pulp adventure, it also introduces a bit of philosophy—exploring the connection between the mind and the body.&lt;/p&gt;
-			&lt;p&gt;Of special note is Jetan, or Martian Chess, which holds a central place in the storyline. An appendix is included, so that interested readers may play the game themselves.&lt;/p&gt;
-			&lt;p&gt;It was originally serialized in six parts in &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; before being published as a novel in 1922.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;, was originally serialized in six parts in &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; before being published as a novel in 1922. It introduces Tara, Princess of Helium, the headstrong daughter of John Carter, the Warlord of Mars. Just like the rest of the novels in the series, this one is packed with imaginative characters and locations. In true Barsoomian fashion, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; regales us with an action-packed adventure: planet-shaking storms, daring swordfights, horrific dungeons, complex alien cultures, and wild escapes. While the story may be considered a standard pulp adventure, it also introduces a bit of philosophy by exploring the connection between the mind and the body.&lt;/p&gt;
+			&lt;p&gt;Of special note is Jetan, or Martian chess, which holds a central place in the storyline. Burroughs includes an appendix so that interested readers may play the game themselves.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1153</dc:source>
 		<dc:source>https://archive.org/details/chessmenofmars00burr_2</dc:source>
-		<meta property="se:production-notes">Cover art is the painting on the original dust jacket of the 1922 Printing.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">88508</meta>
+		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Chessmen_of_Mars</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-chessmen-of-mars</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -76,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
