@@ -54,7 +54,7 @@
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
 		<meta property="file-as" refines="#author">Burroughs, Edgar Rice</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80039681</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
