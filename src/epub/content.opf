@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars</dc:identifier>
 		<dc:date>2021-03-23T22:39:07Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;, was originally serialized in six parts in &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; before being published as a novel in 1922. It introduces Tara, Princess of Helium, the headstrong daughter of John Carter, the Warlord of Mars. Just like the rest of the novels in the series, this one is packed with imaginative characters and locations. In true Barsoomian fashion, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; regales us with an action-packed adventure: planet-shaking storms, daring swordfights, horrific dungeons, complex alien cultures, and wild escapes. While the story may be considered a standard pulp adventure, it also introduces a bit of philosophy by exploring the connection between the mind and the body.&lt;/p&gt;
 			&lt;p&gt;Of special note is Jetan, or Martian chess, which holds a central place in the storyline. Burroughs includes an appendix so that interested readers may play the game themselves.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1153</dc:source>
 		<dc:source>https://archive.org/details/chessmenofmars00burr_2</dc:source>
