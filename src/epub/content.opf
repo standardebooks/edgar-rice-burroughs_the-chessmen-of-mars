@@ -40,7 +40,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:abstract>Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</dc:abstract>
+		<meta property="schema:abstract">Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Chessmen of Mars&lt;/i&gt;, the fifth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;, was originally serialized in six parts in &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; before being published as a novel in 1922. It introduces Tara, Princess of Helium, the headstrong daughter of John Carter, the Warlord of Mars. Just like the rest of the novels in the series, this one is packed with imaginative characters and locations. In true Barsoomian fashion, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; regales us with an action-packed adventure: planet-shaking storms, daring swordfights, horrific dungeons, complex alien cultures, and wild escapes. While the story may be considered a standard pulp adventure, it also introduces a bit of philosophy by exploring the connection between the mind and the body.&lt;/p&gt;
 			&lt;p&gt;Of special note is Jetan, or Martian chess, which holds a central place in the storyline. Burroughs includes an appendix so that interested readers may play the game themselves.&lt;/p&gt;
