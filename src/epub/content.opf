@@ -61,7 +61,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
-		<meta property="file-as" refines="#artist">Saint John, J. Allen</meta>
+		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
 		<meta property="schema:alternateName" refines="#artist">James Allen St. John</meta>
 		<link href="https://en.wikipedia.org/wiki/J._Allen_St._John" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86809359.html" refines="#artist" rel="schema:sameAs"/>
